@@ -1,0 +1,15 @@
+*{
+	font-family: Comic Sans MS;
+}
+
+.container{
+	width: 90%;
+	border: 3px solid #000000;
+	background-color: lightblue;
+}
+body{
+	background-color: lightpink;
+}
+button{
+	width: 90%;
+}
